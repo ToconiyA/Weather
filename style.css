@@ -1,0 +1,76 @@
+body{
+	font-family: "Lucida Sans Unicode", “Lucida Grande”, sans-serif;
+	color:#E7F8FA;
+}
+
+.fon{
+	
+	position: absolute;
+	height:100%;
+	width:100%;
+	background-color: #3399CC;
+	outline: 10px solid #2B81AC;
+}
+
+.f_stroka{
+	margin-left: 17%;
+}
+
+table {
+	
+	position: relative;
+	border:5px solid #fff;
+	width: 68%;
+	margin-left: 17%;
+	text-align: center;
+	border-collapse: collapse;
+}
+
+td{
+	height: 70px;
+	border: 5px solid #fff;
+
+}
+
+.lisbon{
+	width:50%;
+	background-color: #3399CC;
+}
+.lisbon:hover{
+	opacity: 0.5;
+	border:none;
+}
+.paris{
+	width: 25%;
+	background-color: #33CCCC;
+}
+.paris:hover{
+	opacity: 0.5;
+}
+
+.london{
+	width: 25%;
+	background-color:#996699;
+}
+.london:hover{
+	opacity: 0.5;
+}
+.moscow{
+	width: 25%;
+	
+}
+.kair{
+	width: 25%;
+}
+.tel-aviv{
+	width: 25%;
+}
+.new_york{
+	width: 25%;
+}
+.tokyo{
+	background-color: #666699;
+}
+.tokyo:hover{
+	opacity: 0.5;
+}
